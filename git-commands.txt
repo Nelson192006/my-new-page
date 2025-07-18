@@ -1,0 +1,9 @@
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/Nelson192006/my-new-page.git
+git push -u origin main
+Step 1: Initialize Git
+Step 2: Add files
+Step 3: Commit changes
