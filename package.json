@@ -17,5 +17,8 @@
     "url": "https://github.com/Nelson192006/my-new-page/issues"
   },
   "homepage": "https://github.com/Nelson192006/my-new-page#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
